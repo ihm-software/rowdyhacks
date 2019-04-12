@@ -1,0 +1,4 @@
+tell application "QuickTime Player"
+	open URL "%1s"
+	activate
+end tell
